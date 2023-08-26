@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;GetServlet.html&apos; to &apos;GetServlet.html&apos;&#x0D;&#x0A;- Original project: &apos;Chap04&apos;&#x0D;&#x0A;- Destination element: &apos;GetServlet.html&apos;&#x0D;&#x0A;- Original element: &apos;GetServlet.html&apos;" description="Copy file" element1="src/main/webapp/GetServlet.html" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1692496181253" target="/Chap04/src/main/webapp/GetServlet.html" units="0" version="1.0"/>
+</session>

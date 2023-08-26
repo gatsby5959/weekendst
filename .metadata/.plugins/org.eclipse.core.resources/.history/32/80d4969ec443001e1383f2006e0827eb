@@ -1,0 +1,33 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>쿠키를 이용한 세션관리</title>
+</head>
+<body>
+<%
+	String rememberId = request.getParameter("rememberId");//체크박스 값
+	String id = request.getParameter("id");//실제 id값
+	Cookie cookieRememberId;
+	Cookie cookieId;
+	Cookie cookieLoginStatus;
+	
+	if(rememberId != null && rememberId.equals("keep")){//체크박스가 체크되어잇으면
+		cookieRememberId = new Cookie("rememberId","keep");
+	}else{
+		cookieRememberId = new Cookie("rememberId","temp");
+	}
+	cookieId = new Cookie("id",id);
+	cookieLoginStatus = new Cookie("loginStatus","login");
+	
+	response.addCookie(cookieRememberId);
+	response.addCookie(cookieId);
+	response.addCookie(cookieLoginStatus);
+	
+	out.println(cookieRememberId.getValue());
+	response.sendRedirect("http://localhost:8088/Chap08/CookieSessionChk.jsp");
+%>
+</body>
+</html>
