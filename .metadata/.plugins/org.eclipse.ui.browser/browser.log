@@ -254,3 +254,29 @@
 8월 27, 2023 10:30:55.730 [3896:11712:0827/103055.730:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.106 s for first_image_paint 0.091 s
 8월 27, 2023 10:30:55.738 [3896:11712:0827/103055.737:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.106 s for first_image_paint 0.091 s
 8월 27, 2023 10:30:55.783 [3896:11712:0827/103055.783:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.106 s for first_image_paint 0.091 s
+
+9월 02, 2023 11:14:07.392 NEW SESSION
+9월 02, 2023 11:14:07.392 [8752:12608:0902/111407.391:ERROR:device_event_log_impl.cc(222)] [11:14:07.391] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+9월 02, 2023 11:15:20.389 [8752:584:0902/111520.389:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:16:05.601 [8752:584:0902/111605.601:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:16:50.819 [8752:584:0902/111650.819:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:17:36.38 [8752:584:0902/111736.038:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:18:21.253 [8752:584:0902/111821.253:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:19:06.471 [8752:584:0902/111906.471:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:19:51.702 [8752:584:0902/111951.702:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:20:36.930 [8752:584:0902/112036.930:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:21:22.143 [8752:584:0902/112122.143:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:22:07.368 [8752:584:0902/112207.368:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:22:52.586 [8752:584:0902/112252.586:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:23:37.813 [8752:584:0902/112337.812:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:28:26.581 [11460:1700:0902/112826.581:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:47:01.284 [9808:13248:0902/114701.284:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:47:46.510 [9808:13248:0902/114746.510:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:48:31.742 [9808:13248:0902/114831.742:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:49:16.969 [9808:13248:0902/114916.969:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:50:02.207 [9808:13248:0902/115002.207:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:50:47.441 [9808:13248:0902/115047.441:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:51:32.676 [9808:13248:0902/115132.676:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:52:17.906 [9808:13248:0902/115217.906:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:53:03.124 [9808:13248:0902/115303.124:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+9월 02, 2023 11:53:48.353 [9808:13248:0902/115348.353:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
